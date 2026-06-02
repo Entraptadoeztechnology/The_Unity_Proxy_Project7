@@ -18,3 +18,5 @@ project for games so basically its a gaming hub
 <li>This project uses github <strong>CDNS like jsdeliver</strong></li>
   <li>Fun fact this project is like my Inj4ct0r bypass <strong>but uses data urls to encode the payload!</strong></li>
 </ol>
+<h1>✨Build-a-bypass✨</h1>
+<b>You can build a bypass using my <strong>guide.html file</strong></b>
