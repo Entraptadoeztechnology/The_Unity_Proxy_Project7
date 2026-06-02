@@ -11,6 +11,7 @@ project for games so basically its a gaming hub
     <li> If that is blocked use <strong>VS code</strong></li>
   <li> If that is somehow blocked, use <strong>code.org</strong></li>
   <li>Use your district's "dev account"</li>
+  <li>Deploy this repo(as a github page) and change one of the files to <b>index.html</b></li>
   </li>
 </ol>
 <h1>Tech behind this(✨the fun part✨)</h1>
