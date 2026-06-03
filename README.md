@@ -21,7 +21,7 @@ project for games so basically its a gaming hub
 </ol>
 <h1>✨Build-a-bypass✨</h1>
 <b>You can build a bypass using my <strong><a href= "guide.html">guide.html</a></strong></b>
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/cf8b682f-d07b-4c97-8c2b-8f6e2fcecf14" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/6d4bf14f-58fb-43f2-b635-f42b2af7f5f9" />
 <h3>Thats all bye!!!!</h3>
 
 
