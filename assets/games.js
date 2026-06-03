@@ -3043,7 +3043,7 @@ function generateAllSections() {
       section.classList.add("empty");
       const emptyMsg = document.createElement("div");
       emptyMsg.className = "empty-message";
-      emptyMsg.textContent = "No files";
+      emptyMsg.textContent = "No Files Found for this section!";
       buttonsContainer.appendChild(emptyMsg);
     }
 
